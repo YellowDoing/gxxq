@@ -4,8 +4,8 @@
 
 效果预览 http://www.hgteam.cn/gxxq.mp4
 
-<img style="width:216px;height:468px" src="https://note.youdao.com/yws/api/personal/file/D33857C6D6B7462381A406DD04F448FE?method=download&shareKey=03680d52f6f65051cab2a19776059dda"/>
-<img style="width:216px;height:468px" src="https://note.youdao.com/yws/api/personal/file/20AAE99D70B4434E9327F1F2A6A93AA2?method=download&shareKey=d8ae761c8cb69337b98232ee9812e820"/>
+![image](https://note.youdao.com/yws/api/personal/file/30804715DE4143BE8E36660B92EB0DB9?method=download&shareKey=e11564b83722bdbfea4c0054ab623761)
+![image](https://note.youdao.com/yws/api/personal/file/E881299C7EEB443C856CA5275DE84A89?method=download&shareKey=f8092d1435f567a21c75cc91205e6182)
 
 
 《IT独立开发者》帮助程序员拓展产品、运营、设计等思维能力，开发独立产品，致力成为自由职业者，实现财富自由。
