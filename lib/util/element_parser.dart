@@ -10,6 +10,8 @@ import 'package:flutter/cupertino.dart';
 
 class ElementParser {
   static bool hasE(String text) {
+    if(text == null)
+      return false;
     return text.contains('<e') &&
         text.contains('/>') &&
         text.contains('type') &&

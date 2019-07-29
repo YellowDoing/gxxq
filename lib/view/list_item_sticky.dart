@@ -32,7 +32,8 @@ class StickyListItem extends StatelessWidget {
               ),
               Expanded(
                 flex: 1,
-                child: Text(ElementParser.getE(_topic.talk.text), maxLines: 1,
+                child: Text(ElementParser.hasE(_topic.talk.text) ? ElementParser.genEText(_topic.talk.text,context).textSpans[0].text
+                    :_topic.talk.text, maxLines: 1,
                   overflow: TextOverflow.ellipsis,),
               )
             ],

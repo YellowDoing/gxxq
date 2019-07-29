@@ -50,9 +50,11 @@ class _Page1State extends State<Page1> {
   GestureDetector _buildGridItem(Group group, List<String> tgb) {
     return GestureDetector(
       onTap: (){
-        Navigator.push(context, CupertinoPageRoute(builder: (context) {
-          return TopicsPage(group);
-        }));
+        if(group.id != 1){
+          Navigator.push(context, CupertinoPageRoute(builder: (context) {
+            return TopicsPage(group);
+          }));
+        }
       },
       child: Container(
         color: Colors.white,
