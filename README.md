@@ -1,16 +1,14 @@
-# gxxq
+# 共享星球
 
-A new Flutter project.
+仿《知识星球》APP,基于Flutter开发，仅供学习使用，数据为写死的模拟数据，请勿商用或盗版，谢谢。
 
-## Getting Started
+(gif图片较大，请稍等待)
 
-This project is a starting point for a Flutter application.
+![image](https://note.youdao.com/yws/api/personal/file/3221152EE22A4D03BD05AE60DB18C429?method=download&shareKey=bd1192beb117d3658f712b5e3e01040e)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+《IT独立开发者》帮助程序员拓展产品、运营、设计等思维能力，开发独立产品，致力成为自由职业者，实现财富自由。
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://note.youdao.com/yws/api/personal/file/3002024D05CB4DE093FE3D5B1C5F768E?method=download&shareKey=df4c885cbea566bf95c0a9cf515984d5)
+
+微信扫码关注公众号《IT独立开发者》
