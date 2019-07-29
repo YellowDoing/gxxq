@@ -3,6 +3,7 @@
 仿《知识星球》APP,基于Flutter开发，仅供学习使用，数据为写死的模拟数据，请勿商用或盗版，谢谢。
 
 效果预览 http://www.hgteam.cn/gxxq.mp4
+安装包地址 https://fir.im/rvkc?release_id=5d3ec3e3f9454878877074fa
 
 ![image](https://note.youdao.com/yws/api/personal/file/30804715DE4143BE8E36660B92EB0DB9?method=download&shareKey=e11564b83722bdbfea4c0054ab623761)
 ![image](https://note.youdao.com/yws/api/personal/file/E881299C7EEB443C856CA5275DE84A89?method=download&shareKey=f8092d1435f567a21c75cc91205e6182)
