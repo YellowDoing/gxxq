@@ -10,4 +10,5 @@
 《IT独立开发者》帮助程序员拓展产品、运营、设计等思维能力，开发独立产品，致力成为自由职业者，实现财富自由。
 
 ![image](https://note.youdao.com/yws/api/personal/file/3002024D05CB4DE093FE3D5B1C5F768E?method=download&shareKey=df4c885cbea566bf95c0a9cf515984d5)
+
 微信扫码关注公众号《IT独立开发者》
