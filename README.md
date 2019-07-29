@@ -2,10 +2,10 @@
 
 仿《知识星球》APP,基于Flutter开发，仅供学习使用，数据为写死的模拟数据，请勿商用或盗版，谢谢。
 
-(gif图片较大，请稍等待)
+效果预览 http://www.hgteam.cn/gxxq.mp4
 
-![image](https://note.youdao.com/yws/api/personal/file/3221152EE22A4D03BD05AE60DB18C429?method=download&shareKey=bd1192beb117d3658f712b5e3e01040e)
-
+![image](https://note.youdao.com/yws/api/personal/file/20AAE99D70B4434E9327F1F2A6A93AA2?method=download&shareKey=d8ae761c8cb69337b98232ee9812e820)
+![image](https://note.youdao.com/yws/api/personal/file/D33857C6D6B7462381A406DD04F448FE?method=download&shareKey=03680d52f6f65051cab2a19776059dda)
 
 《IT独立开发者》帮助程序员拓展产品、运营、设计等思维能力，开发独立产品，致力成为自由职业者，实现财富自由。
 
