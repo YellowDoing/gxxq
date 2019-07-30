@@ -8,6 +8,8 @@
 ![image](https://note.youdao.com/yws/api/personal/file/30804715DE4143BE8E36660B92EB0DB9?method=download&shareKey=e11564b83722bdbfea4c0054ab623761)
 ![image](https://note.youdao.com/yws/api/personal/file/E881299C7EEB443C856CA5275DE84A89?method=download&shareKey=f8092d1435f567a21c75cc91205e6182)
 
+项目运行后若底部范围超出，需修改Tab控件源码112行，10改为2即可
+
 
 《IT独立开发者》帮助程序员拓展产品、运营、设计等思维能力，开发独立产品，致力成为自由职业者，实现财富自由。
 
