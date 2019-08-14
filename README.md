@@ -1,8 +1,7 @@
 # 共享星球
 
-仿《知识星球》APP,基于Flutter开发，仅供学习使用，数据为写死的模拟数据，请勿商用或盗版，谢谢。
+仿《知识星球》APP,基于Flutter开发，丝滑流畅,仅供学习使用，数据为写死的模拟数据，请勿商用或盗版，谢谢。
 
-效果预览 http://www.hgteam.cn/gxxq.mp4
 安装包地址 https://fir.im/rvkc?release_id=5d3ec3e3f9454878877074fa
 
 ![image](https://note.youdao.com/yws/api/personal/file/30804715DE4143BE8E36660B92EB0DB9?method=download&shareKey=e11564b83722bdbfea4c0054ab623761)
