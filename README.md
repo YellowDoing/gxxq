@@ -8,7 +8,8 @@
 ![image](https://note.youdao.com/yws/api/personal/file/30804715DE4143BE8E36660B92EB0DB9?method=download&shareKey=e11564b83722bdbfea4c0054ab623761)
 ![image](https://note.youdao.com/yws/api/personal/file/E881299C7EEB443C856CA5275DE84A89?method=download&shareKey=f8092d1435f567a21c75cc91205e6182)
 
-项目运行后若底部范围超出，需修改Tab控件源码112行，10改为2即可
+> 项目运行后若底部范围超出，需修改Tab控件源码112行，10改为2即可
+
 ----------------------------------------------------------------
 
 1. 想加的知识星球星球觉得太贵？
